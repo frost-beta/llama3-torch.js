@@ -1,0 +1,9 @@
+*.pte
+*.swp
+*.tgz
+
+yarn.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
+/node_modules/
