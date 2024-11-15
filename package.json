@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "@lenml/tokenizers": "3.0.3",
-    "executorch": "0.0.6"
+    "executorch": "0.0.7"
   }
 }
